@@ -11,5 +11,5 @@ elif mdv == 'd':
 elif mdv == 'v':
     m = float(input("Mass: "))
     d = float(input("Density: "))
-    result = m/d;
+    result = m/d
 print("%.2f" % result)
